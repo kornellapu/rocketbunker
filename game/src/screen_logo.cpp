@@ -53,7 +53,7 @@ static float alpha = 1.0f;         // Useful for fading
 // Logo Screen Initialization logic
 void InitLogoScreen(void)
 {
-    finishScreen = 0;
+    finishScreen = 0; 
     framesCounter = 0;
     lettersCount = 0;
 
